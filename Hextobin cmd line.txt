@@ -1,0 +1,1 @@
+c:\python27\scripts\hex2bin.py c:\testforbin\OAD_IMAGE_FULL.hex c:\testforbin\OAD_IMAGE_FULL.bin
